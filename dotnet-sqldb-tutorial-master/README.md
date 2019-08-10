@@ -5,6 +5,7 @@ languages:
 products:
   - Azure App Service
   - Azure Web Apps
+  -logic appps
 ---
 
 # ASP.NET and SQL Database sample for Azure App Service
